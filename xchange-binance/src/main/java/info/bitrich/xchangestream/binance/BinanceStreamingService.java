@@ -1,5 +1,6 @@
 package info.bitrich.xchangestream.binance;
 
+
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.node.TextNode;
 import info.bitrich.xchangestream.core.ProductSubscription;

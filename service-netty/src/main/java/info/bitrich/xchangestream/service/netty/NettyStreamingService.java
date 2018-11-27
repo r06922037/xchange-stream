@@ -82,7 +82,7 @@ public abstract class NettyStreamingService<T> {
     //debugging
     private boolean acceptAllCertificates = false;
     private boolean enableLoggingHandler = false;
-    private LogLevel loggingHandlerLevel = LogLevel.DEBUG;
+    private LogLevel loggingHandlerLevel = LogLevel.TRACE;
     private String socksProxyHost;
     private Integer socksProxyPort;
 
